@@ -1,0 +1,33 @@
+.reducer-container {
+  width: 300px;
+  background: #e8f5e9;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 2px 4px 8px rgba(0, 0, 0, 0.2);
+  text-align: center;
+}
+
+.reducer-container h2 {
+  color: #388e3c;
+}
+
+.reducer-container p {
+  font-size: 24px;
+  font-weight: bold;
+  color: #1b5e20;
+}
+
+.reducer-container button {
+  background: #388e3c;
+  color: white;
+  border: none;
+  padding: 8px 15px;
+  margin: 5px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background 0.3s ease;
+}
+
+.reducer-container button:hover {
+  background: #1b5e20;
+}

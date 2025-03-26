@@ -1,0 +1,33 @@
+.performance-container {
+    width: 300px;
+    background: #ede7f6;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 2px 4px 8px rgba(0, 0, 0, 0.2);
+  }
+  
+  .performance-container h2 {
+    color: #512da8;
+  }
+  
+  .performance-container p {
+    font-size: 20px;
+    font-weight: bold;
+    color: #311b92;
+  }
+  
+  .performance-container button {
+    background: #512da8;
+    color: white;
+    border: none;
+    padding: 8px 15px;
+    margin: 5px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background 0.3s ease;
+  }
+  
+  .performance-container button:hover {
+    background: #311b92;
+  }
+  
