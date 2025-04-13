@@ -1,6 +1,6 @@
 import Header from "./components/Header"
  import SideBarMenu from "./components/SideBarMenu"
- 
+ import DashBoard from "./pages/DashBoard"
  
  const App = () => {
    return (
@@ -10,6 +10,7 @@ import Header from "./components/Header"
        </div>
        <div>
          <Header />
+         <DashBoard />
        </div>
      </div>
  
