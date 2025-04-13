@@ -55,6 +55,14 @@
       "orderValue": 9000,
       "orderDate": "7/4/2025",
       "status": "In-progress"
+    },
+    {
+      "id": "8946",
+      "customerName": "Be Tuan",
+      "company": "Be Tuan test",
+      "orderValue": 1500,
+      "orderDate": "13/4/2025",
+      "status": "New"
     }
   ]
 }
