@@ -44,14 +44,14 @@
       "id": "6",
       "customerName": "Hailey Adams",
       "company": "FlowRush",
-      "orderValue": 922,
+      "orderValue": 1000,
       "orderDate": "10/06/2023",
       "status": "Completed"
     },
     {
       "id": "0f18",
-      "customerName": "Tri",
-      "company": "Tri Thanh",
+      "customerName": "Be",
+      "company": "Tuan Van",
       "orderValue": 9000,
       "orderDate": "7/4/2025",
       "status": "In-progress"
